@@ -1,8 +1,8 @@
-胖东来
-于东来
-
 马斯克
+特斯拉
+
 比尔盖茨
+微软
 段永平
 
 DeepSeek
@@ -83,7 +83,9 @@ mac
 ios
 
 ai
-!gai
+AIGC
+AI Agent
+promt
 人工智能
 
 自动驾驶
